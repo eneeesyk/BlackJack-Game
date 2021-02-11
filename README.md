@@ -1,6 +1,7 @@
 # BlackJack
 
 I have created a blackjack game with using python language. Have fun while playing! :)
+FlowChart has not created by me !
 ## Rules
     The deck is unlimited in size. 
     There are no jokers. 
